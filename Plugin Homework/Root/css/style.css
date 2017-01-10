@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700');
+
+/* Eric Meyer CSS Reset begins */
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,main{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+/* Eric Meyer CSS Reset ends */
+
+/*Body and Pragraph text styling*/
+
+body,
+p {
+	padding-bottom: 20px;
+	font-family: 'open sans', sans-serif;
+	font-size: 18px;
+	line-height: 1.25;
+	background-color: #ffd9df;
+}
+
+
+/* adding scrollable bottom to the page*/
+
+body {
+	padding-bottom: 500px;
+	padding: 50px;
+}
+
+
+/*font and header styling for h1 tags*/
+
+h1 {
+	font-family: 'oswald', sans-serif;
+	padding-top: 50px;
+	font-weight: 300%;
+	font-size: 70px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+
+/* h2 styling for different size*/
+
+h2 {
+	font-family: 'oswald', sans-serif;
+	padding-bottom: 20px;
+	font-weight: 300%;
+	font-size: 30px;
+	text-align: center;
+}
+
+
+/* img sixing and borders*/
+
+img {
+	max-height:  width: 940px;
+	max-height:  height: 500px;
+	border: thick black solid;
+}
+
+
+/* page setup*/
+
+header,
+main,
+footer {
+	max-width: 940px;
+	margin: 0 auto;
+}
