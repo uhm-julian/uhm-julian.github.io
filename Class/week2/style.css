@@ -1,0 +1,77 @@
+.header, .footer {
+    height: 75px;
+    min-height: 75px;
+    max-height: 75px;
+}
+
+.b1{
+    height: 400px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.i1{
+  height: 400px;
+  min-height: 400px;
+  max-height: 400px;
+}
+
+#main [class*='col-md-9'] {
+    height: 400px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.p1{
+  height: 75px;
+  min-height: 75px;
+  max-height: 75px;
+}
+
+.p2{
+  height: 400px;
+  min-height: 400px;
+  max-height: 400px;
+}
+
+.p3{
+  height: 75px;
+  min-height: 75px;
+  max-height: 75px;
+}
+
+.s1{
+  height: 75px;
+  min-height: 75px;
+  max-height: 75px;
+}
+
+.s3{
+  height: 150px;
+  min-height: 150px;
+  max-height: 150px;
+}
+
+.s2{
+  height: 150px;
+  min-height: 150px;
+  max-height: 150px;
+}
+
+.s12{
+  height: 150px;
+  min-height: 150px;
+  max-height: 150px;
+}
+
+.s73{
+  height: 75px;
+  min-height: 75px;
+  max-height: 75px;
+}
+
+.s79{
+  height: 75px;
+  min-height: 75px;
+  max-height: 75px;
+}
