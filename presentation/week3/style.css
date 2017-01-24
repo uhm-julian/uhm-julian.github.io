@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+html {
+    height: 100%
+}
+
+h1{
+  font-family: 'Bungee', cursive;
+  font-size: 100px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+}
+
+h2{
+  font-size: 50px;
+  text-align: center;
+  margin: auto;
+  margin-top: 1%;
+}
+
+
+.sl{
+  text-align: center;
+  margin-top: 1%;
+}
