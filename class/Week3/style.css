@@ -1,0 +1,42 @@
+.header, .footer {
+    height: 75px;
+    min-height: 75px;
+    max-height: 75px;
+}
+
+.i1{
+    height: 400px;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.s1{
+  height: 100px;
+  min-height: 100px;
+  max-height: 100px;
+}
+
+.s2{
+  height: 50px;
+  min-height: 50px;
+  max-height: 50px;
+}
+
+
+.t1{
+  height: 600px;
+  min-height: 600px;
+  max-height: 600px;
+}
+
+.t2{
+  height: 200px;
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.t3{
+  height: 100px;
+  min-height: 100px;
+  max-height: 100px;
+}
