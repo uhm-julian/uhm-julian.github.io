@@ -1,0 +1,47 @@
+.header, .footer {
+    height: 75px;
+    min-height: 75px;
+    max-height: 75px;
+}
+
+.i1{
+    height: 80px;
+    min-height: 80px;
+    max-height: 80px;
+}
+
+.i2{
+  height: 150px;
+  min-height: 150px;
+  max-height: 150px;
+}
+
+.title{
+  height: 300px;
+  min-height: 300px;
+  max-height: 300px;
+}
+
+img{
+  width: 100%;
+}
+
+.cb{
+  background-color: lightblue;
+}
+
+.cr{
+  background-color: red;
+}
+
+.cy{
+  background-color: yellow;
+}
+
+body{
+  background-image: url(bg.jpg);
+}
+
+h1,h2,h3{
+  font-size: 100px;
+}

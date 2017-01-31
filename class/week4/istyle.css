@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+.header, .footer {
+    height: 75px;
+    min-height: 75px;
+    max-height: 75px;
+}
+
+.i1{
+  height: 100px;
+  min-height: 100px;
+  max-height: 100px;
+  font-family: 'pacifico', cursive;
+  font-weight: bold;
+}
+
+h1{
+  font-size: 36px;
+}
+
+h2{
+  font-size: 20px;
+}
+.i2{
+  height: 600px;
+  min-height: 600px;
+  max-height: 600px;
+}
+
+.i3{
+  height: 300px;
+  min-height: 300px;
+  max-height: 300px;
+}
+
+img{
+  width: 100%;
+}
