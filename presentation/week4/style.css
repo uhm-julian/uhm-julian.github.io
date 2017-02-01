@@ -3,45 +3,44 @@
     min-height: 75px;
     max-height: 75px;
 }
-
-.i1{
-    height: 80px;
-    min-height: 80px;
-    max-height: 80px;
-}
-
-.i2{
-  height: 150px;
-  min-height: 150px;
-  max-height: 150px;
-}
-
-.title{
-  height: 300px;
-  min-height: 300px;
-  max-height: 300px;
+body{
+  background-color: #a2f7ff;
 }
 
 img{
-  width: 100%;
+  width: 100%
 }
 
-.cb{
-  background-color: lightblue;
+p{
+  font-size: 18px;
 }
 
-.cr{
-  background-color: red;
+h3{
+  font-size: 30px;
+  color: red;
 }
 
-.cy{
-  background-color: yellow;
+h2{
+  font-size: 30px;
+  color: red;
 }
 
-body{
-  background-image: url(bg.jpg);
+.bb{
+  border-bottom: 5px solid yellow;
 }
 
-h1,h2,h3{
-  font-size: 100px;
+h1{
+  font-size: 50px;
+  color: blue;
+  text-align: center;
+}
+
+.i1{
+  height: 180px;
+  min-height: 180px;
+  max-height: 180px;
+}
+
+.container{
+  border: 5px blue solid;
 }
