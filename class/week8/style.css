@@ -1,0 +1,47 @@
+#centerDiv{
+  text-align: center;
+}
+
+.r1{
+  height: 150px;
+  max-height: 150px;
+  min-height: 150px;
+  border: 1px solid black;
+}
+
+.r20{
+  height: 500px;
+  max-height: 500px;
+  min-height: 500px;
+  border: 1px solid black;
+
+}
+
+.r21{
+  height: 250px;
+  max-height: 250px;
+  min-height: 250px;
+  border: 1px solid black;
+
+}
+
+.r22{
+  height: 250px;
+  max-height: 250px;
+  min-height: 250px;
+  border: 1px solid black;
+
+}
+
+.r3{
+  height: 150px;
+  max-height: 150px;
+  min-height: 150px;
+  border: 1px solid black;
+
+}
+
+img{
+  height: 100%;
+  width: 100%;
+}
