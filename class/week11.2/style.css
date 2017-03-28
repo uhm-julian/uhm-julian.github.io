@@ -1,0 +1,22 @@
+body{
+  display: block;
+  text-align: center;
+  color: black;
+  background-color: rgb(255, 200, 200);
+}
+
+body a{
+display: none;
+}
+
+h1{
+  font-size: 96px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.gifs{
+  border: solid orange 25px;
+  border-radius: 25px;
+  margin-bottom: 60px;
+}
