@@ -1,8 +1,8 @@
 .r1 {
-    height: 75px;
-    max-height: 75px;
-    min-height: 75px;
-}
+    height: 230px;
+    max-height: 230px;
+    min-height: 230px;
+  }
 
 .r2 {
     height: 800px;
@@ -18,14 +18,25 @@
 
 .table {
     font-family: "avenir-next" sans-serif;
-}
+  }
 
 #playerInfo img {
-    height: 150px;
+    height: 250px;
     float: left;
+    padding-bottom: 50px;
 }
 
 #playerInfo div{
   padding-left:350px;
   padding-top:30px;
+  font-size: 50px;
+}
+
+.topbanner img{
+  display: block;
+  align-items: center;
+  height: 230px;
+  margin: auto;
+  padding-bottom: 20px;
+
 }
