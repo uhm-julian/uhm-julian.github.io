@@ -1,4 +1,4 @@
-var url = "https://andersonguelphjs.github.io/class/week12/myJson.json";
+var url = "https://uhm-julian.github.io/class/week12d/info.json";
 
 //we use get for an html file
 //we use getJSON for a .json file
@@ -11,13 +11,10 @@ $.getJSON(url)
             console.log("Rank Number " + i + "'s name " + data[i].name);
             myHtml += "<tr data-index='" + i + "'>" +
                 "<td>" + (i + 1) + "</td>" +
-                "<td>" + data[i].name + "</td>" +
-                "<td>" + data[i].team + "</td>" +
-                "<td>" + data[i].position + "</td>" +
-                "<td>" + data[i].gamesPlayed + "</td>" +
-                "<td>" + data[i].goals + "</td>" +
-                "<td>" + data[i].assists + "</td>" +
-                "<td>" + data[i].points + "</td>" +
+                "<td>" + data[i].type + "</td>" +
+                "<td>" + data[i].colour + "</td>" +
+                "<td>" + data[i].speed + "</td>" +
+                "<td>" + data[i].price + "</td>" +
                 "</tr>";
         }
         $(document).ready(function() {
