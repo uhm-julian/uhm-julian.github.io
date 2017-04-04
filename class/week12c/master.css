@@ -1,0 +1,31 @@
+.r1 {
+    height: 75px;
+    max-height: 75px;
+    min-height: 75px;
+}
+
+.r2 {
+    height: 800px;
+    max-height: 800px;
+    min-height: 800px;
+}
+
+.r3 {
+    height: 75px;
+    max-height: 75px;
+    min-height: 75px;
+}
+
+.table {
+    font-family: "avenir-next" sans-serif;
+}
+
+#playerInfo img {
+    width: 150px;
+    float: left;
+}
+
+#playerInfo div{
+  padding-left:350px;
+  padding-top:30px;
+}

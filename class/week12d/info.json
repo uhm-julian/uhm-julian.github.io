@@ -1,0 +1,71 @@
+[{
+        "type": "Golden Fleece",
+        "colour": "Gold",
+        "speed": "6",
+        "price": "$700",
+        "image":"http://images.crocs.com/is/image/Crocs/large/Gold-Crocskin-Classic-2012-Limited-Edition-Clog-_14455_710_IS.jpg"
+    },
+    {
+        "type": "Lightning McQueen",
+        "colour": "Red",
+        "speed": "1,000,000",
+        "price": "$3.4 Million",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/41WQ1N0SmZL.jpg"
+    },
+    {
+        "type": "Colour Me Green",
+        "colour": "Green",
+        "speed": "3",
+        "price": "$300",
+        "image":"https://68.media.tumblr.com/186b6d618e911b9d933f66b469af8fcc/tumblr_nwr3mhiZeQ1uvq1yso1_500.jpg"
+    },
+    {
+        "type": "Hello Kitty Mans",
+        "colour": "White",
+        "speed": "1",
+        "price": "$90",
+        "image":"http://www.worldofclogs.com/acatalog/crocs_kids_hellokitty_neonmagentacarnation.jpg"
+    },
+    {
+        "type": "Chewbacca Blasters",
+        "colour": "Brown",
+        "speed": "Light Speed",
+        "price": "$60",
+        "image":"https://www.google.ca/search?q=kids&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjzx8G9x4vTAhWc8oMKHSsGDakQ_AUIBigB&biw=1325&bih=1041#tbm=isch&q=special+edition+crocs&*&imgrc=Srh9ODgSWEFW0M:"
+    },
+    {
+        "type": "Black Tie Crocs",
+        "colour": "Black",
+        "speed": "2",
+        "price": "8 Billion (it's worth it, this thing is Classy)",
+        "image":"http://www.famousfootwear.com/ProductImages/shoes_ia28952.jpg?preset=details"
+    },
+    {
+        "type": "Jordans X Crcos Collab",
+        "colour": "White",
+        "speed": "Quick Quick",
+        "price": "$245",
+        "image":"https://www.google.ca/search?q=kids&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjzx8G9x4vTAhWc8oMKHSsGDakQ_AUIBigB&biw=1325&bih=1041#tbm=isch&q=Jordans+crocs&*&imgrc=siy__HkavxzK1M:"
+    },
+    {
+        "type": "Addidas X Crocs Collab",
+        "colour": "Black/White",
+        "speed": "Finish line Fast",
+        "price": "$$236.99",
+        "image":"https://pbs.twimg.com/media/CPMZr7eWcAQxA0k.jpg"
+    },
+    {
+        "type": "Sk8r Boi",
+        "colour": "Green",
+        "speed": "4",
+        "price": "$10",
+        "image":"https://www.google.ca/search?q=kids&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjzx8G9x4vTAhWc8oMKHSsGDakQ_AUIBigB&biw=1325&bih=1041#tbm=isch&q=vans+crocs&*&imgrc=nwU0ddeP7qGTXM:"
+    },
+    {
+        "type": "All Terrain Croc",
+        "colour": "Pink",
+        "speed": "7",
+        "price": "$109.99",
+        "image":"http://r.fod4.com/c=sq/s=w350,pd1/o=80/http://a.fod4.com/images/user_photos/1245447/b4a899714afe52eb069d6017207b7ac7_square_fullsize.jpg"
+    }
+]
